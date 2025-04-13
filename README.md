@@ -1,12 +1,12 @@
-# Producer Utilities: Stems Renamer
+# ✨ Producer Utilities: Stems Renamer
 
 This tool helps you quickly rename your Ableton stem files by removing unwanted prefixes and track numbers added during export. It works on all audio files in a folder and its subfolders.
 
-## Part of the Producer Utilities Toolkit by [Forty-Two Aisles](https://linktr.ee/fortytwoprod)
+## ⚙️ Part of the Producer Utilities Toolkit by [Forty-Two Aisles](https://linktr.ee/fortytwoprod)
 
 Feel free to DM or email me your suggestions for other boring steps in your music and content creation process to automate away! For music collaborations and K-pop pitching, contact me on [Instagram](https://www.instagram.com/fortytwoprod).
 
-## Easy Setup Guide
+## 🚀 Easy Setup Guide
 
 1. [Download Python](https://www.python.org/downloads/), the programming language needed to run this tool.
 2. Get [Visual Studio Code](https://code.visualstudio.com/), a program to open and run the code.
@@ -19,7 +19,7 @@ Feel free to DM or email me your suggestions for other boring steps in your musi
     - Select the unzipped folder and click **"Open"** (macOS) or **"Select Folder"** (Windows).
 6. Open the file named `renamer.py` in Visual Studio Code.
 
-## How to Use
+## 🖱️ How to Use
 
 1. Set the folder path where the stems are located:
     - **macOS**: Right-click a file or subfolder in the folder, select **"Get Info"**, then right-click the path next to **"Where"** and choose **"Copy as Pathname"**. Open `renamer.py`, scroll to the bottom, and paste the path into the `folder_path` line.
@@ -29,7 +29,7 @@ Feel free to DM or email me your suggestions for other boring steps in your musi
 
 ![Play button in Visual Studio Code](play_button_screenshot.png)
 
-## The MIT License
+## 📄 The MIT License
 
 Copyright 2025 Forty-Two Aisles
 
