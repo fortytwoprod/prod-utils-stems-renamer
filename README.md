@@ -2,6 +2,8 @@
 
 This tool helps you quickly rename your Ableton stem files by removing unwanted prefixes and track numbers added during export. It works on all audio files in a folder and its subfolders.
 
+**If you downloaded this document from [Grouped](https://app.grouped.com/fortytwoprod?tab=media), head to my [Github](https://github.com/fortytwoprod/prod-utils-stems-renamer) page to get this tool!**
+
 ## ⚙️ Part of the Producer Utilities Toolkit by [Forty-Two Aisles](https://linktr.ee/fortytwoprod)
 
 Feel free to DM or email me your suggestions for other boring steps in your music and content creation process to automate away! For music collaborations and K-pop pitching, contact me on [Instagram](https://www.instagram.com/fortytwoprod).
